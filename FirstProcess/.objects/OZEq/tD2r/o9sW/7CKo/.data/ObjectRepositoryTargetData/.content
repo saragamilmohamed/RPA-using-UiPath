@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="In8RHjw8hEGqmpfKHDij8w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="worldometers.info/coronavirus/country/egypt" CVScreenId="42432855-64b0-468c-8cb1-9e755bee4860" DesignTimeRectangle="291, 483, 879, 96" FullSelectorArgument="&lt;webctrl aaname='              ' parentid='maincounter-wrap' tag='DIV' /&gt;" Guid="180debd0-4172-4ec4-a6d9-c1259f16d67d" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Egypt COVID - Coronavirus Statistics - Worldometer' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="a24dc9796be64b1a0f83f0127bc32680.png" xmlns="">0WV0f998hL0SlEQeq4F11pQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

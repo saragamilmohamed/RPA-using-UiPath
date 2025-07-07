@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'Egypt COVID - Coronavir…'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "rNjE7dowDkSg0HNWip5a4Q",
+  "Reference": "RjbxLmJB8E-XTLNhdoQoeg/rNjE7dowDkSg0HNWip5a4Q",
+  "ParentRef": "RjbxLmJB8E-XTLNhdoQoeg/o9sWg0dq10SiS2nFvqf59A",
+  "Created": "2025-06-14T10:46:21.1566157Z",
+  "Updated": "2025-06-14T10:46:21.1566157Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

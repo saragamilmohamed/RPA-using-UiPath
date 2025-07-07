@@ -1,0 +1,4 @@
+COVID-19 Stats for italy
+Cases: 26,723,249
+Deaths: 196,487
+Recovered: 26,361,218

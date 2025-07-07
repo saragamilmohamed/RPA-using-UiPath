@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TZ7rDUQ5SEWwFw0KVWzMkg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="7d4cd973-cadd-4a66-b0f4-0afdfb7e4f51" DesignTimeRectangle="1405, 413, 199, 17" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='https://www.worldometers.info' parentid='rso' tag='SPAN' /&gt;" Guid="74fae58f-d030-4584-94fd-4390a3f319cc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='egypt coronavirus worldometer - بحث Google‏' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="a99116ad46c8a92c2ddc0255710b27c7.png" xmlns="">0Fsg0TdGT60-6WHHOEM5oFg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

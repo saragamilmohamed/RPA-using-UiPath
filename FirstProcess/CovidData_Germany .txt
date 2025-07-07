@@ -1,0 +1,4 @@
+COVID-19 Stats for Germany 
+Cases: 38,828,995
+Deaths: 183,027
+Recovered: 38,240,600

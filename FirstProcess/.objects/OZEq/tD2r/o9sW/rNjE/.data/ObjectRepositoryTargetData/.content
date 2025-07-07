@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4HVhwCuaxU-OJdZz3kZ1-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.co.uk/search" CVScreenId="a5ebb244-4d2f-4364-ae42-2be54784f12d" DesignTimeRectangle="266, 465, 414, 39" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H3' /&gt;" Guid="8b673b5c-afd3-4e59-b56f-d32d16dac269" ScopeSelectorArgument="&lt;html app='chrome.exe' title='egypt cronavirus worldometer - Google Search' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="dc665b4b6df4894a69789425a0696858.png" xmlns="">0RsAH_WhSMEef_AoVqHRg8g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">VerifyTypeIntoExecution</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

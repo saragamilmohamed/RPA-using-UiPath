@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Coronavirus Cases 503,…",
+  "Type": "Element",
+  "Id": "0e_7erSovUuK5Hs6MzdIwQ",
+  "Reference": "RjbxLmJB8E-XTLNhdoQoeg/0e_7erSovUuK5Hs6MzdIwQ",
+  "ParentRef": "RjbxLmJB8E-XTLNhdoQoeg/o9sWg0dq10SiS2nFvqf59A",
+  "Created": "2025-06-14T11:41:57.7727194Z",
+  "Updated": "2025-06-14T11:41:57.7727194Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

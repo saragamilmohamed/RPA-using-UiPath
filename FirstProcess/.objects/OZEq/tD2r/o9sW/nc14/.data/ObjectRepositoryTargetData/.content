@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FkACZSTN7EeP198pU1mIrw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.co.uk/search" CVScreenId="7f3d759f-0e4b-4206-89e8-f845f77ac179" DesignTimeRectangle="266, 368, 415, 39" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H3' /&gt;" Guid="1521962c-8bc5-478b-848c-8866aa5e1f7c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='china coronavirus worldometer - Google Search' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="d53fb179c0348563ca6b96528d00cc65.png" xmlns="">07IyxndPKhUiPQrVGE5cv6w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">VerifyTypeIntoExecution</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

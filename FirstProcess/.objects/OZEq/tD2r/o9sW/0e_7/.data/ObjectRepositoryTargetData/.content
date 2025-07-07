@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="za0gv2Kbw0WpMh5hkdsang" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="worldometers.info/coronavirus/country/china" DesignTimeRectangle="272, -50, 917, 1266" FullSelectorArgument="&lt;webctrl class='col-md-8' tag='DIV' /&gt;" Guid="8e63bca5-0a66-46c4-9823-36ece34ddfea" ScopeSelectorArgument="&lt;html app='chrome.exe' title='China COVID - Coronavirus Statistics - Worldometer' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="6dace17a0cf023957e04b891badf8fbb.png" xmlns="">0RCs4F9u0rU-b_39LBX85ZA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
